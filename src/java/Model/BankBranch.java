@@ -1,4 +1,4 @@
-package tp1;
+package Model;
 
 
 import java.io.Serializable;
